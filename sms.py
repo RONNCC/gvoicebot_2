@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 #username
-username='ronnie.ghose'
-password='uqyvjchgxflldbgw'
-number='5712714000'
-msg='wat'
+username=<username>
+password=<password>
+number=<number here>
+msg=<message here>
 
 
 import time
